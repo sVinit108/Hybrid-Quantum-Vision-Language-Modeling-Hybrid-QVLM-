@@ -81,7 +81,7 @@ manuscript submitted to Knowledge-Based Systems (Elsevier), 2026
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Hybrid-QVLM.git
+git clone https://github.com/sVinit108/Hybrid-QVLM.git
 cd Hybrid-QVLM
 
 # Create virtual environment
@@ -233,5 +233,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Vinit Sharma** - [vdsharma_m24@ce.vjti.ac.in](mailto:vdsharma_m24@ce.vjti.ac.in)
-- **Project Link**: [https://github.com/yourusername/Hybrid-QVLM](https://github.com/sVinit108/Hybrid-QVLM)
+- **Project Link**: [https://github.com/sVinit108/Hybrid-QVLM](https://github.com/sVinit108/Hybrid-QVLM)
 

@@ -3,14 +3,11 @@ manuscript submitted to Knowledge-Based Systems (Elsevier), 2026
 
 # Hybrid-QVLM: A Quantum-Classical Framework for Enhanced Vision-Language Modeling
 
-[![Paper](https://img.shields.io/badge/Paper-Under_Review-orange)](link_to_paper)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4-red.svg)](https://pytorch.org/)
 
 > **A hybrid quantum-classical multimodal transformer integrating parameterized quantum circuits for vision-language understanding.**
-
-[Paper (Under Review)](link) | [Preprint](link) | [Project Page](link)
 
 ---
 

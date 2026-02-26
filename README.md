@@ -1,5 +1,6 @@
-# Hybrid-Quantum-Vision-Language-Modeling-Hybrid-QVLM-
-manuscript submitted to Knowledge-Based Systems (Elsevier), 2026 
+# Hybrid-Quantum-Vision-Language-Modeling-Hybrid-QVLM
+manuscript with Editor at Knowledge-Based Systems (Elsevier), 2026 
+(Code to be soon uploaded)
 
 # Hybrid-QVLM: A Quantum-Classical Framework for Enhanced Vision-Language Modeling
 
